@@ -98,10 +98,9 @@ The implementation and reproducibility instructions are currently being prepared
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{yuce2026temporal,
+@misc{yuce2026temporal,
   title     = {Temporal Feature Extractors in {EEG} Foundation Models: A Controlled Comparison Including a Pretrained Time-Series Model},
   author    = {Y\"uce, Ay\c{s}e Bet\"ul and Leffler, Chris Joey and Varghese, Sarun and Spiliopoulou, Myra and Stober, Sebastian},
-  booktitle = {Proceedings of the 2nd ICML Workshop on Foundation Models for Structured Data},
   year      = {2026},
   eprint    = {2606.30104},
   archivePrefix = {arXiv},
